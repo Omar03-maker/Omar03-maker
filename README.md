@@ -1,4 +1,4 @@
-# 👋 Salut, je suis El Hadji Omar Dia !
+# 👋 Salut, je suis Omar !
 
 ## 🔬 Etudiant en Bio-informatique et Analyste de Données
 
