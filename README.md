@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salut, je suis El Hadji Omar Dia !
 
-<!--
-**Omar03-maker/Omar03-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Etudiant en Bio-informatique et Analyste de Données
 
-Here are some ideas to get you started:
+Je travaille sur l'analyse de données biologiques et de santé publique avec les logiciel R et Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 Domaines d'expertise
+- Analyse de données NGS 
+- Bio-informatique computationnelle 
+- Visualisation de données de santé
+- Modélisation statistique
+
+### 🛠️ Technologies
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 📫 Contact
+- GitHub: [@Omar03-maker](https://github.com/Omar03-maker)
