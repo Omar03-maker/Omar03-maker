@@ -1,12 +1,11 @@
 # 👋 Salut, je suis Omar !
 
-## 🔬 Etudiant en Bio-informatique et Analyste de Données
+## 🔬 Etudiant en Biotechnologie et Bio-informatique 
 
 Je travaille sur l'analyse de données biologiques et de santé publique avec les logiciel R et Python.
 
 ### 🧬 Domaines d'expertise
 - Analyse de données NGS 
-- Bio-informatique computationnelle 
 - Visualisation de données de santé
 - Modélisation statistique
 
